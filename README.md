@@ -2,7 +2,7 @@
 
 copy this script and paste into injector this is an all in 1
 
-**script: **
+**script: loadstring(game:HttpGet('https://raw.githubusercontent.com/lidgg/script/refs/heads/main/.lua', true))()**
 
 # functionsadded
 
